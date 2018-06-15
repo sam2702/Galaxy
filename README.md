@@ -39,7 +39,7 @@ color:grey;
         <a class="nav-link" href="#Aboutme"><b>About</b></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Portfolio" onClick="document.getElementById('portfolio').scrollIntoView();"><b>Portfolio</b></a>
+        <a class="nav-link" href="#Space" onClick="document.getElementById('portfolio').scrollIntoView();"><b>Portfolio</b></a>
        
       </li>
       <li class="nav-item">
@@ -88,9 +88,9 @@ Further, space is a vacuum, meaning that sound cannot carry because molecules ar
 		<div class="col-lg-4 col-md-6">
 		<img class="img-thumbnail" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2m9LCaqzqnRJqCgvo0EJD3Nx4jJtj5SZzywszlLIeta0jp-ShyQ">
 		</div>
-		  </hr>
+		  
 		</div>
-	</h9>
+	
 
 		  
 		  <div class="container">
@@ -141,7 +141,7 @@ Further, space is a vacuum, meaning that sound cannot carry because molecules ar
 
 </div>
 </div>
-</hr>
+
 <div class="container">
 	<center>
 
@@ -155,6 +155,3 @@ Further, space is a vacuum, meaning that sound cannot carry because molecules ar
 <a href="https://twitter.com/Santosh36575299" target="_blank" class="btn btn-default"><p><i class="fa fa-twitter" aria-hidden="true"></i> twitter</p></a>
 <a href="https://www.freecodecamp.org/sam2702" target="_blank" class="btn btn-default"><p><i class="fa fa-free-code-camp" aria-hidden="true"></i> freecodecamp</p></a>
 </div>
-</div>
-</body>
-	</html>	
