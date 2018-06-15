@@ -52,12 +52,12 @@ color:grey;
 	<div class="aboutme">
 	<div class="container">
           <div class="row">
-	    <div class="col-lg-3"><img height="220px" width="220px" class="rounded-circle" src="https://avatars0.githubusercontent.com/u/29937202?s=460&v=4"></div>
-	    <div class="col-lg-8"><h4>Currently a computer science student and Web Developing Enthusiastic having experience with HTML, CSS, JavaScript, Python, NodeJs, AngularJs, React for Web development. I am also a coder who loves to code different problems in C, C++, Python, Java. <hr color="white">I am also learning MEAN stack web development at FreeCodeCamp and different MOOCs. Moreover, I am also learning Programming, Data Structures and Algorithms using Python.Objectives are to build skills and gain experience through different avenues to become a change maker and a corporate leader,to be enterprising.</div>
+	    <div class="col-lg-3"><img height="220px" width="220px" class="rounded-circle" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBW9BwxE5HNx1-vb9aKSALMgYeIzS8icKkJ4VTztSG1U0F4JVy"></div>
+	    <div class="col-lg-8"><h4>From the perspective of an Earthling, outer space is a zone that occurs about 100 kilometers (60 miles) above the planet, where there is no appreciable air to breathe or to scatter light. In that area, blue gives way to black because oxygen molecules are not in enough abundance to make the sky blue.
+
+Further, space is a vacuum, meaning that sound cannot carry because molecules are not close enough together to transmit sound between them. That's not to say that space is empty, however. Gas, dust and other bits of matter float around "emptier" areas of the universe, while more crowded regions can host planets, stars and galaxies..
      
-			</div>
-			</div>
-			</div>
+			
 		<hr color ="black">
 		<h3 align="center">Portfolio</h3><hr color="black">
 		<div class="row">
@@ -91,11 +91,7 @@ color:grey;
 		  </hr>
 		</div>
 	</h9>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 		  
 		  <div class="container">
 		  	<hr color="black">
