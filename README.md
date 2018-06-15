@@ -1,16 +1,6 @@
 <html>
 <head>
-	<style>
 	
-	.aboutme{
-		background-color:darkgray;
-	}	
-	nav{
-		background-color:violet;
-	}
-	h5{
-		font-color:white;
-	}
 	body{
 color:grey;
 	}
@@ -39,14 +29,13 @@ color:grey;
         <a class="nav-link" href="#Aboutme"><b>About</b></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Space" onClick="document.getElementById('portfolio').scrollIntoView();"><b>Portfolio</b></a>
+        <a class="nav-link" href="#Space" onClick="document.getElementById('Space').scrollIntoView();"><b>Space</b></a>
        
       </li>
       <li class="nav-item">
         <a class="nav-link" font-style="italic" href="#Contacts"><b>Contacts</b></a>
       </li>
     </ul>
-  </div>
 </nav></header>
 <div class="container">
 	<div class="aboutme">
@@ -59,7 +48,7 @@ Further, space is a vacuum, meaning that sound cannot carry because molecules ar
      
 			
 		<hr color ="black">
-		<h3 align="center">Portfolio</h3><hr color="black">
+		<h3 align="center">Space</h3><hr color="black">
 		<div class="row">
 		<div class="col-lg-4 col-md-6">
 		<img class="img-thumbnail" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4h5JE7rRYSQt6F2wqPB61y8agqLK9bS-PYvQa1jKT-Omk7_i5" alt="...">
@@ -89,7 +78,6 @@ Further, space is a vacuum, meaning that sound cannot carry because molecules ar
 		<img class="img-thumbnail" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2m9LCaqzqnRJqCgvo0EJD3Nx4jJtj5SZzywszlLIeta0jp-ShyQ">
 		</div>
 		  
-		</div>
 	
 
 		  
@@ -148,7 +136,6 @@ Further, space is a vacuum, meaning that sound cannot carry because molecules ar
 	<div class="btn-group btn-group-lg" role="group" aria-label="...">
 <a href="https://github.com/sam2702" target="_blank" class="btn btn-default"><p><i class="fa fa-github" aria-hidden="true"></i> GitHub</p></a>
 <a href="https://www.linkedin.com/in/santosh-kumar-234823133/" target="_blank" class="btn btn-default"><p><i class="fa fa-linkedin" aria-hidden="true"></i> linkedin</p></a>
-
 <a href="https://codepen.io/dashboard/" target="_blank" class="btn btn-default"><p><i class="fa fa-codepen" aria-hidden="true"></i> codepen</p></a>
 <a href="https://www.facebook.com/ssantosh2702" target="_blank" class="btn btn-default"><p><i class="fa fa-facebook" aria-hidden="true"></i> facebook</p></a>
 <a href="https://twitter.com/Santosh36575299" target="_blank" class="btn btn-default"><p><i class="fa fa-twitter" aria-hidden="true"></i> twitter</p></a>
