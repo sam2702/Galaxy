@@ -148,8 +148,7 @@ Further, space is a vacuum, meaning that sound cannot carry because molecules ar
 	<div class="btn-group btn-group-lg" role="group" aria-label="...">
 <a href="https://github.com/sam2702" target="_blank" class="btn btn-default"><p><i class="fa fa-github" aria-hidden="true"></i> GitHub</p></a>
 <a href="https://www.linkedin.com/in/santosh-kumar-234823133/" target="_blank" class="btn btn-default"><p><i class="fa fa-linkedin" aria-hidden="true"></i> linkedin</p></a>
-<img src="https://code.sololearn.com/Icons/Avatars/1.jpg" height="25px" width="25px">
-<a href="https://www.sololearn.com/Profile/5110806#" target="_blank" class="btn btn-default"><p><i class="fa fa-snowflake" aria-hidden="true"></i> sololearn</p></a>
+
 <a href="https://codepen.io/dashboard/" target="_blank" class="btn btn-default"><p><i class="fa fa-codepen" aria-hidden="true"></i> codepen</p></a>
 <a href="https://www.facebook.com/ssantosh2702" target="_blank" class="btn btn-default"><p><i class="fa fa-facebook" aria-hidden="true"></i> facebook</p></a>
 <a href="https://twitter.com/Santosh36575299" target="_blank" class="btn btn-default"><p><i class="fa fa-twitter" aria-hidden="true"></i> twitter</p></a>
