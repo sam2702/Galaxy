@@ -46,7 +46,7 @@ color:grey;
         <a class="nav-link" font-style="italic" href="#Contacts"><b>Contacts</b></a>
       </li>
     </ul>
-  </div></div>
+  </div>
 </nav></header>
 <div class="container">
 	<div class="aboutme">
